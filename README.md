@@ -1,4 +1,4 @@
-FreeREGNonProductIssues
+NonProductIssues
 =======================
 
-Free REG issues not relating to product problems.
+Issues not relating to product problems.
